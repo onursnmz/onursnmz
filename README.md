@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning Uipath and Microsoft Power Platform
+- I'm interested Low-Code technologies.
 
 - 📫 How to reach me **onursnmz@outlook.com**
 
