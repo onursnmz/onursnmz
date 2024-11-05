@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Power Platform Developer from Turkey</h3>
 
 - 🌱 I’m currently learning Microsoft Power Platform development.
-- 🌱 I'm interested Low-Code technologies.
+- 🌱 I'm interested Low-Code technologies, business workflows, business applications.
 
 - 📫 How to reach me **onursnmz@outlook.com**
 
@@ -26,6 +26,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>
 
 </p>
+<h3 align="left">Power Apps:</h3>
+ A low-code application development platform that enables quick creation of custom mobile and web apps tailored to business needs.
+<h3 align="left">Power Automate:</h3>
+ A workflow automation tool designed to streamline business processes by automating repetitive tasks and integrating different applications.
+<h3 align="left">Power Pages:</h3>
+ A platform for building secure business portals and websites without the need for coding, enhancing customer and partner interactions.
+<h3 align="left">Dataverse:</h3>
+ A structured data platform for managing and storing business data, enabling centralized data storage, relationships, and analysis across applications.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onursnmz&show_icons=true&locale=en&layout=compact" alt="onursnmz" /></p>
 
