@@ -20,12 +20,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" alt="powerautomate" width="50" height="50"/> </a>
 <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro" target="_blank" rel="noreferrer">
 <img src="https://arunpotti.com/wp-content/uploads/2021/10/dataverse_1600x1600.png" alt="dataverse" width="50" height="50"/> </a> 
-  
+<a href="https://learn.microsoft.com/en-us/power-pages/introduction" target="_blank" rel="noreferrer"> 
+<img src="https://westx.ca/wp-content/uploads/2023/12/Power-Pages.png" alt="powerpages" width="50" height="40"/> </a>  
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>
 
-<a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro" target="_blank" rel="noreferrer"> 
-<img src="https://westx.ca/wp-content/uploads/2023/12/Power-Pages.png" alt="powerpages" width="40" height="40"/> </a> 
+
 <a href="https://learn.microsoft.com/en-us/power-pages/introduction" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
