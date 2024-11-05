@@ -14,15 +14,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://img.icons8.com/?size=512&id=OU2ddOKw840K&format=png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/en-us/power-apps/powerapps-overview" target="_blank" rel="noreferrer"> 
+<img src="https://img.icons8.com/?size=512&id=OU2ddOKw840K&format=png" alt="powerapps" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" alt="react" width="40" height="40"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png" alt="powerautomate" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-<img src="https://arunpotti.com/wp-content/uploads/2021/10/dataverse_1600x1600.png" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://arunpotti.com/wp-content/uploads/2021/10/dataverse_1600x1600.png" alt="dataverse" width="50" height="50"/> </a> 
+<a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
