@@ -34,7 +34,7 @@
  A platform for building secure business portals and websites without the need for coding, enhancing customer and partner interactions.
 <h3 align="left">Dataverse:</h3>
  A structured data platform for managing and storing business data, enabling centralized data storage, relationships, and analysis across applications.
-
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onursnmz&show_icons=true&locale=en&layout=compact" alt="onursnmz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onursnmz&show_icons=true&locale=en" alt="onursnmz" /></p>
