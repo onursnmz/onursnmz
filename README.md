@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🌱 I’m currently learning Uipath and Microsoft Power Platform
+- 🌱 I’m currently learning Microsoft Power Platform development.
 - 🌱 I'm interested Low-Code technologies.
 
 - 📫 How to reach me **onursnmz@outlook.com**
@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://img.icons8.com/?size=512&id=OU2ddOKw840K&format=png)" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
